@@ -13,52 +13,56 @@ const Dashboard = () => {
       text: 'Banco'
     },
     {
-      dataField: 'Enero 2020',
+      dataField: 'Julio_2019',
+      text: 'Julio 2019'
+    },
+    {
+      dataField: 'Agosto_2019',
+      text: 'Agosto 2019'
+    },
+    {
+      dataField: 'Septiembre_2019',
+      text: 'Septiembre 2019'
+    },
+    {
+      dataField: 'Octubre_2019',
+      text: 'Octubre 2019'
+    },
+    {
+      dataField: 'Noviembre_2019',
+      text: 'Noviembre 2019'
+    },
+    {
+      dataField: 'Diciembre_2019',
+      text: 'Diciembre 2019'
+    },
+    {
+      dataField: 'Enero_2020',
       text: 'Enero 2020'
     },
     {
-      dataField: 'Febrero 2020',
+      dataField: 'Febrero_2020',
       text: 'Febrero 2020'
     },
     {
-      dataField: 'Marzo 2020',
+      dataField: 'Marzo_2020',
       text: 'Marzo 2020'
     },
     {
-      dataField: 'Abril 2020',
+      dataField: 'Abril_2020',
       text: 'Abril 2020'
     },
     {
-      dataField: 'Mayo 2020',
+      dataField: 'Mayo_2020',
       text: 'Mayo 2020'
     },
     {
-      dataField: 'Junio 2020',
+      dataField: 'Junio_2020',
       text: 'Junio 2020'
     },
     {
-      dataField: 'Julio 2020',
+      dataField: 'Julio_2020',
       text: 'Julio 2020'
-    },
-    {
-      dataField: 'Agosto 2020',
-      text: 'Agosto 2020'
-    },
-    {
-      dataField: 'Septiembre 2020',
-      text: 'Septiembre 2020'
-    },
-    {
-      dataField: 'Octubre 2020',
-      text: 'Octubre 2020'
-    },
-    {
-      dataField: 'Noviembre 2020',
-      text: 'Noviembre 2020'
-    },
-    {
-      dataField: 'Diciembre 2020',
-      text: 'Diciembre 2020'
     }
   ];
 
